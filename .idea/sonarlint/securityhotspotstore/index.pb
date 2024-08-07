@@ -21,3 +21,23 @@ l
 <src/main/java/com/afreximbank/services/PersonneServices.java,5\2\52924fef231a125e2357d5ccde40d8dd2b16b385
 o
 ?src/main/java/com/afreximbank/services/PersonneServicesImp.java,5\e\5e00a9c5da2ec793fe9dfe34f4358e7ace518fd7
+e
+5src/main/java/com/demo/services/PersonneServices.java,b\1\b11037627ae9da996065d009f8d3a959d1b0df23
+X
+(src/main/java/com/demo/entity/Cours.java,d\3\d33cdf3d41a0c4b3dd201baff1719ba26bab4303
+\
+,src/main/java/com/demo/entity/CoursNote.java,e\8\e82a16903d1fc4804e39e5cc38b7e4ad94b82642
+]
+-src/main/java/com/demo/entity/Professeur.java,3\c\3c030e090d8f2adc6ee6c7d76e0b474d107271ca
+h
+8src/main/java/com/demo/services/PersonneServicesImp.java,d\d\dddc2aa01c1633601b0aef0172d6b777f97e6ef8
+[
++src/main/java/com/demo/entity/Etudiant.java,2\b\2b8f5d3fab717b0b365fc25f4996980f6f52a3ab
+f
+6src/main/java/com/demo/services/CourceServicesImp.java,5\c\5cfc27a6a0a7c55f45ace6e382d826920210686d
+P
+ src/main/java/com/demo/Main.java,f\9\f9996ab388a7f436d87b7a70011378f8baf0830d
+c
+3src/main/java/com/demo/services/CourceServices.java,d\c\dcaa500be0e5f2dce59d9a29968c3d7ee8b2b39f
+[
++src/main/java/com/demo/entity/Personne.java,a\4\a4b7457af71180f93348cb02703f7e8fb8a4f365

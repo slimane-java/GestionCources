@@ -1,13 +1,13 @@
-package com.afreximbank;
+package com.demo;
 
-import com.afreximbank.entity.Cours;
-import com.afreximbank.entity.Etudiant;
-import com.afreximbank.entity.Personne;
-import com.afreximbank.entity.Professeur;
-import com.afreximbank.services.CourceServices;
-import com.afreximbank.services.CourceServicesImp;
-import com.afreximbank.services.PersonneServices;
-import com.afreximbank.services.PersonneServicesImp;
+import com.demo.entity.Cours;
+import com.demo.entity.Etudiant;
+import com.demo.entity.Personne;
+import com.demo.entity.Professeur;
+import com.demo.services.CourceServices;
+import com.demo.services.CourceServicesImp;
+import com.demo.services.PersonneServices;
+import com.demo.services.PersonneServicesImp;
 
 public class Main {
     public static void main(String[] args) {

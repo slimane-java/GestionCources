@@ -1,4 +1,4 @@
-package com.afreximbank.entity;
+package com.demo.entity;
 
 public abstract class Personne {
     private int id;

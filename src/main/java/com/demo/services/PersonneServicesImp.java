@@ -1,8 +1,8 @@
-package com.afreximbank.services;
+package com.demo.services;
 
-import com.afreximbank.entity.Etudiant;
-import com.afreximbank.entity.Personne;
-import com.afreximbank.entity.Professeur;
+import com.demo.entity.Etudiant;
+import com.demo.entity.Personne;
+import com.demo.entity.Professeur;
 
 import java.util.ArrayList;
 import java.util.List;
